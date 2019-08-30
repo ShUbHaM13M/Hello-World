@@ -30,6 +30,6 @@ elif C==4:
     value = divison(num1,num2)
     print('ans',value)
 else:
-    print("Error")
+    print("Error Hahahahahaha")
 
     
